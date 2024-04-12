@@ -1,5 +1,5 @@
 
-# ❂ STAKR.space for Crossfi community:<br>
+# ❂ STAKR.space is participating in the CrossFi Chain EVM testnet grant program:<br>
 Explorer: https://testnet.explorer.stakr.space/crossfi<br>
 Statesync: https://testnet.explorer.stakr.space/crossfi/statesync<br>
 RPC: https://crossfi-rpc.srv.stakr.space<br>
